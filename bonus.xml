@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf8"?>
+<bonus>
+
+	<!-- QUESTION BONUS 1 -->
+	<question num="1">
+        Il faut effectuer la boucle tantque Une seul fois cela suffit a generer de façon certaine un labyrinthe.
+        
+        
+         PlusVoir Bonus.pdf
+	</question>
+
+	<!-- QUESTION BONUS 2 -->
+	<question num="2">
+	Oui il y en a.
+        VOIR Bonus.pdf
+        
+        
+        Plus de details Voir Bonus.pdf
+
+	</question>
+
+	<!-- QUESTION BONUS 3 -->
+	<question num="3">
+        Oui ,Cela peut aller jusqu'a 3 fois ,mais dans cela n'arrive qu'avec des echantillons de tres tres grande taille ,
+        Sinon la boucle TANTQUE ne se fais que 2 fois.
+         j'ai effectué des tests sur de grands labirynthes pour infirmer cela.
+        Mais si aleatoirement on suit le meme algo que 1 alors une boulce est nescessaire.
+        
+        
+        Plus de details Voir Bonus.pdf.
+	</question>
+	
+
+</bonus>
